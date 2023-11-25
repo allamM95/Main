@@ -7,6 +7,8 @@ from tqdm import tqdm
 import atexit
 import subprocess
 
+#testing Commits in Github
+
 # Force console window to stay open after execution
 def keep_console_open():
     subprocess.call("pause", shell=True)
